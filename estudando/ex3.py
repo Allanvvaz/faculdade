@@ -1,3 +1,5 @@
+# Exercicio 3 - Média e Conceito
+# Faça um programa que leia duas notas de um aluno, calcule a média e mostre o conceito do aluno.
 nota1 = float(input("Digite a primeira nota: "))
 nota2 = float(input("Digite a segunda nota: "))
 

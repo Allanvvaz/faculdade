@@ -1,3 +1,5 @@
+#Exercicio 6 - Validação de Data
+# Faça um programa que leia uma data (dia, mês e ano) e verifique se a data é válida.
 data = input("Digite uma data (dd/mm/aaaa): ")
 dia, mes, ano = map(int, data.split("/"))
 meses = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
