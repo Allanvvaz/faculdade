@@ -16,4 +16,3 @@ while True:
 
 print(listaCorreta)
 
-#Adicionar a verificação de cpf
